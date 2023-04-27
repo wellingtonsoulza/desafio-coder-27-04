@@ -34,8 +34,8 @@ main {
   width: 100vh;
 }
 
-.section-1,
-.section-2 {
+.section-1, .section-2, .section-3, .section-4, .section-5,
+.section-6 {
   background-color: gray;
   padding: 24px;
   width: auto;
@@ -44,8 +44,8 @@ main {
   border-bottom: 1px solid red;
 }
 
-.section-1 > h1,
-.section-2 > h1 {
+.section-1 > h1, .section-2 > h1, .section-3 > h1, .section-4 > h1, .section-5 > h1,
+.section-6 > h1 {
   color: #a5147d;
 }
 
